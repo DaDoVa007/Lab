@@ -1,0 +1,11 @@
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\bin\Debug\net8.0\UnitGupaliuk.deps.json
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\bin\Debug\net8.0\UnitGupaliuk.dll
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\bin\Debug\net8.0\UnitGupaliuk.pdb
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\UnitGupaliuk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\UnitGupaliuk.AssemblyInfoInputs.cache
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\UnitGupaliuk.AssemblyInfo.cs
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\UnitGupaliuk.csproj.CoreCompileInputs.cache
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\UnitGupaliuk.dll
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\refint\UnitGupaliuk.dll
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\UnitGupaliuk.pdb
+D:\Lab_ОПАМ\Lab_19\UnitGupaliuk\obj\Debug\net8.0\ref\UnitGupaliuk.dll

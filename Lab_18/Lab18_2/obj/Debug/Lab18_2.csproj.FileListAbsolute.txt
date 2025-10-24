@@ -1,0 +1,7 @@
+D:\Lab_ОПАМ\Lab_18\Lab18_2\bin\Debug\Lab18_2.exe.config
+D:\Lab_ОПАМ\Lab_18\Lab18_2\bin\Debug\Lab18_2.exe
+D:\Lab_ОПАМ\Lab_18\Lab18_2\bin\Debug\Lab18_2.pdb
+D:\Lab_ОПАМ\Lab_18\Lab18_2\obj\Debug\Lab18_2.csproj.AssemblyReference.cache
+D:\Lab_ОПАМ\Lab_18\Lab18_2\obj\Debug\Lab18_2.csproj.CoreCompileInputs.cache
+D:\Lab_ОПАМ\Lab_18\Lab18_2\obj\Debug\Lab18_2.exe
+D:\Lab_ОПАМ\Lab_18\Lab18_2\obj\Debug\Lab18_2.pdb

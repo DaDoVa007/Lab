@@ -1,0 +1,14 @@
+D:\Lab_ОПАМ\Lab_18\Lab_18\bin\Debug\net8.0\Lab_18.exe
+D:\Lab_ОПАМ\Lab_18\Lab_18\bin\Debug\net8.0\Lab_18.deps.json
+D:\Lab_ОПАМ\Lab_18\Lab_18\bin\Debug\net8.0\Lab_18.runtimeconfig.json
+D:\Lab_ОПАМ\Lab_18\Lab_18\bin\Debug\net8.0\Lab_18.dll
+D:\Lab_ОПАМ\Lab_18\Lab_18\bin\Debug\net8.0\Lab_18.pdb
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.AssemblyInfoInputs.cache
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.AssemblyInfo.cs
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.csproj.CoreCompileInputs.cache
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.dll
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\refint\Lab_18.dll
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.pdb
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\Lab_18.genruntimeconfig.cache
+D:\Lab_ОПАМ\Lab_18\Lab_18\obj\Debug\net8.0\ref\Lab_18.dll

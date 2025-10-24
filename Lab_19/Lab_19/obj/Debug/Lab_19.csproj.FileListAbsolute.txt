@@ -1,0 +1,10 @@
+D:\Lab_ОПАМ\Lab_19\Lab_19\bin\Debug\Lab_19.exe.config
+D:\Lab_ОПАМ\Lab_19\Lab_19\bin\Debug\Lab_19.exe
+D:\Lab_ОПАМ\Lab_19\Lab_19\bin\Debug\Lab_19.pdb
+D:\Lab_ОПАМ\Lab_19\Lab_19\obj\Debug\Lab_19.csproj.AssemblyReference.cache
+D:\Lab_ОПАМ\Lab_19\Lab_19\obj\Debug\Lab_19.csproj.CoreCompileInputs.cache
+D:\Lab_ОПАМ\Lab_19\Lab_19\obj\Debug\Lab_19.csproj.Up2Date
+D:\Lab_ОПАМ\Lab_19\Lab_19\obj\Debug\Lab_19.exe
+D:\Lab_ОПАМ\Lab_19\Lab_19\obj\Debug\Lab_19.pdb
+D:\Lab_ОПАМ\Lab_19\Lab_19\bin\Debug\UnitTest.dll
+D:\Lab_ОПАМ\Lab_19\Lab_19\bin\Debug\UnitTest.pdb

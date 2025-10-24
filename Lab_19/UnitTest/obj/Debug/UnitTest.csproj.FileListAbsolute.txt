@@ -1,0 +1,6 @@
+D:\Lab_ОПАМ\Lab_19\UnitTest\bin\Debug\UnitTest.dll
+D:\Lab_ОПАМ\Lab_19\UnitTest\bin\Debug\UnitTest.pdb
+D:\Lab_ОПАМ\Lab_19\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\Lab_ОПАМ\Lab_19\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Lab_ОПАМ\Lab_19\UnitTest\obj\Debug\UnitTest.dll
+D:\Lab_ОПАМ\Lab_19\UnitTest\obj\Debug\UnitTest.pdb
